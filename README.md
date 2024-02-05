@@ -8,6 +8,8 @@ First, we attempted to fine-tune an LLM on our data. This was a question/answer 
 
 We tried fine-tuning the open-source LLMs 7B, Llama 2 from Meta and Mistral-Hermès from Mistral AI, which we loaded into a quantized version using an A100 GPU rented from Google Colab ([cf. Open-source LLMs fine-tuned](https://github.com/EtienneFerrandi/Generation_XML/tree/d73287cc57ad9758d046722072fda00eda2c77fe/Open-source%20LLMs%20fine-tuned)).
 
+We also tried fine-tuning gpt-3.5, owned by OpenAI, using the OpenAI API (cf. [GPT 3.5 fine-tuned](https://github.com/EtienneFerrandi/Generation_XML/tree/a468fa948ef148b33fddeabe54adae30bd9c9d90/GPT%203.5%20fine-tuned))
+
 Overall, inference, i.e. text generation from the various fine-tuned LLMs, was disappointing. This can be explained by the fact that the XML/EAD format we wish to generate is highly structured.
 
 ## Schematic prompt: balance sheet and results
