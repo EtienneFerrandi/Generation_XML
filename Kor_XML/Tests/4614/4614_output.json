@@ -1,0 +1,927 @@
+[
+  {
+    "c1": {
+    "level": "recordgrp",
+    "did": 
+      {
+        "unittitle": "I – RAPPORTS ET ETATS"
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W1",
+        "unittitle": "Rapports de prise de commandement. Rapports de fin de commandement.",
+        "unitdate": {
+          "normal": "1967-10-07/1980-08-05",
+          "#text": "07/10/1967-05/08/1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Rapports de prise de commandement.",
+        "unitdate": {
+          "normal": "1967-12-19/1975-04-10",
+          "#text": "19/12/1967-10/04/1975"
+        }
+      },
+      "scopecontent": {
+        "p1": "L.V. MAURICE 29/09/1969.",
+        "p2": "L.V. BAUDSON 12/08/1971.",
+        "p3": "L.V. ESCOUBET 14/03/1974.",
+        "p4": "L.V. SAINT-HIPPPOLYTE 16/03/1974.",
+        "p5": "C.C. BAUDSON 10/04/1975.",
+        "p6": "L.V. ARAGON."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Rapports de fin de commandement",
+        "unitdate": {
+          "normal": "1967-10-07/1980-08-05",
+          "#text": "07/10/1967-05/08/1980"
+        }
+      },
+      "scopecontent": {
+        "p1": "07/10/1967 C.C. SAINT-CAST.",
+        "p2": "07/05/1969 C.F. MAUREAU.",
+        "p3": "17/09/1969 L.V. MAURICE.",
+        "p4": "29/07/1971 C.C. BAUDSON.",
+        "p5": "23/09/1971 C.F. MARQUEZE-POUEY.",
+        "p6": "15/02/1973 L.V. ESCOUBET.",
+        "p7": "15/02/1974 L.V. DEISSARD.",
+        "p8": "14/03/1975 L.V. BRUN DE SAINT-HIPPOLYTE.",
+        "p9": "04/04/1975 C.C. BAUDSON.",
+        "p10": "16/03/1976 L.V. ARAGON.",
+        "p11": "16/03/1977 L.V. D’ESCAYRAC-LAUTURE.",
+        "p12": "11/04/1978 L.V. SPROGIS.",
+        "p13":"17/04/1979 L.V. DE LESQUEN.",
+        "p14" : "05/08/1980 L.V. TRANZEAT."
+      }
+    }
+  },
+  {
+    "c1": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "II - JOURNAUX"
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W2",
+        "unittitle": "Registres des vols. Registre de sécurité des vols. Cahier et registre des services aériens. Cahier d’ordres et de travail aérien. Cahier fracto/Frida."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Registres des vols",
+        "unitdate": {
+          "normal": "1969-01-02/1970-03-31",
+          "#text": "02/01/1969-31/03/1970"
+        }
+      },
+      "scopecontent": {
+        "p1": "N° 1 02/01/1969-31/03/1970",
+        "p2": "N° 2 02/01/1976-18/01/1978"
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Registre de sécurité des vols",
+        "unitdate": {
+          "normal": "1972-05-03/1978-03-19",
+          "#text": "03/05/1972-19/03/1978"
+        }
+      },
+      "scopecontent" : {
+        "p1" : "N° 3 03/05/1972-19/03/1978."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Cahier et registre des services aériens.",
+        "unitdate": {
+          "normal": "1973-09-01/1976-12-31",
+          "#text": "01/09/1973-31/12/1976"
+        }
+      },
+      "scopecontent": {
+        "p1": "N° 4 01/09/1973-08/01/1975.",
+        "p2": "N° 5 01/01/1975-31/12/1976."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Cahier d’ordres et de travail aérien",
+        "unitdate": {
+          "normal": "1975-05-07/1980-07-05",
+          "#text": "07/05/1975-05/07/1980"
+        }
+      },
+      "scopecontent" : {
+        "p" : "N° 6, 07/05/1975-05/07/1980."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Cahier fracto/Frida: N° 7",
+        "unitdate": {
+          "normal": "1976-01-01/1978-04-02",
+          "#text": "01/01/1976-02/04/1978"
+        }
+      },
+      "scopecontent" : {
+        "p" : "N° 7 01/01/1976-02/04/1978"
+      }
+    }
+  },
+  {
+    "c2":{
+      "level": "recordgrp",
+      "did": {
+        "unitid":"4W3",
+        "unittitle":"Feuillets fracto, 1972-1977.",
+        "unitdate":{
+          "normal":"1972-01-03/1977-12-31",
+          "#text":"03/01/1972-31/12/1977"
+        },
+      "scopecontent":{
+        "p1": "043172 A au 043179 B du 03/01/1972 au 19/01/1972.",
+        "p2": "043141 B au 043185 B du 01/02/1972 au 20/02/1972.",
+        "p3": "043182 B au 013437 B du 15/02/1972 au 28/03/1972.",
+        "p4": "043438 A au 013269 A du 29/03/1972 au 24/04/1972.",
+        "p5": "013448 A au 013284 B du 09/04/1972 au 26/05/1972.",
+        "p6": "033253 A au 012423 B du 18/05/1972 au 16/06/1972.",
+        "p7": "033260 B au 012459 A du 07/06/1972 au 18/07/1972.",
+        "p8": "012426 B au 038705 B du 20/06/1972 au 12/09/1972.",
+        "p9": "018356 B au 039337 A du 19/07/1972 au 18/08/1972.",
+        "p10": "038707 B au 038712 A du 13/09/1972 au 15/09/1972.",
+        "p11": "018373 A au 018382 A du 16/09/1972 au 23/10/1972.",
+        "p12": "038714 B au 033380 A du 28/09/1972 au 23/11/1972.",
+        "p13":"038730 B au 038749 A du 21/11/1972 au 28/12/1972.",
+        "p14" : "042002 A au 033388 A du 03/01/1973 au 25/01/1973.",
+        "p15" : "037454 B au 017008 A du 01/03/1973 au 31/03/1973.",
+        "p16":"033323 A au 042022 A du 29/03/1973 au 19/04/1973.",
+        "p17":"037470 A au 033338 B du 24/04/1973 au 18/05/1973.",
+        "p18":"042032 A au 042047 A du 09/05/1973 au 14/06/1973.",
+        "p19":"042048 B au 010258 A du 15/06/1973 au 25/06/1973.",
+        "p20":"042044 A au 036714 A du 07/06/1973 au 29/07/1973.",
+        "p21":"010263 A au 010280 A du 10/07/1973 au 23/08/1973.",
+        "p22":"024013 B au 037280 A du 21/08/1973 au 19/09/1973.",
+        "p23":"037281 A au 037284 A du 20/09/1973 au 22/09/1973.",
+        "p24":"024021 B au 024023 B du 13/09/1973 au 27/10/1973.",
+        "p25":"016362 A au 024030 A du 23/10/1973 au 23/11/1973.",
+        "p26":"016371 A au 026763 A du 19/11/1973 au 28/12/1973.",
+        "p27":"012067 A au 012073 A du 01/01/1976 au 14/01/1976.",
+        "p28":"050095 B au 058054 B du 02/01/1976 au 12/01/1976.",
+        "p29":"012074 A au 012083 A du 15/01/1976 au 30/01/1976.",
+        "p30":"014580 A au 058075 A du 10/01/1976 au 31/01/1976.",
+        "p31":"051925 A au 051950 A du 31/01/1976 au 29/02/1976.",
+        "p32":"051925 A au 051950 A du 31/01/1976 au 29/02/1976.",
+        "p33":"012084 A au 012099 B du 03/02/1976 au 17/03/1976.",
+        "p34":"058102 A au 017212 A du 01/03/1976 au 16/03/1976.",
+        "p35":"022535 B au 020204 A du 09/03/1976 au 21/04/1976.",
+        "p36":"058112 A au 051957 B du 11/03/1976 au 12/04/1976.",
+        "p37":"022528 A au 020213 A du 01/03/1976 au 10/05/1976.",
+        "p38":"058136 A au 051991 B du 02/04/1976 au 20/05/1976.",
+        "p39":"051965 A au 039528 A du 13/04/1976 au 08/05/1976.",
+        "p40":"051992 B au 103837 A du 21/05/1976 au 04/06/1976.",
+        "p41":"020214 A au 058017 A du 11/05/1976 au 09/06/1976.",
+        "p42":"031406 B au 059278 A du 31/05/1976 au 27/06/1976.",
+        "p43":"058018 B au 020235 A du 11/06/1976 au 13/07/1976.",
+        "p44":"030219 A au 059290 A du 28/06/1976 au 13/07/1976.",
+        "p45":"058022 A au 020242 A du 19/06/1976 au 31/07/1976.",
+        "p46":"059279 B au 059295 A du 28/06/1976 au 28/07/1976.",
+        "p47":"042833 A au 058155 A du 12/07/1976 au 01/09/1976.",
+        "p48":"020243 A au 058042 A du 01/08/1976 au 20/09/1976.",
+        "p49":"058156 A au 058169 B du 02/09/1976 au 18/09/1976.",
+        "p50":"058160 A au 058185 A du 07/09/1976 au 05/10/1976.",
+        "p51":"058040 A au 020121 A du 14/09/1976 au 19/10/1976.",
+        "p52":"058186 A au 058196 A du 06/10/1976 au 29/10/1976.",
+        "p53":"058049 A au 031459 B du 14/10/1976 au 03/11/1976.",
+        "p54":"058197 A au 023114 A du 30/10/1976 au 29/11/1976.",
+        "p55":"018542 A au 037413 B du 30/11/1976 au 31/12/1976.",
+        "p56":"020127 A au 031471 A du 05/11/1976 au 21/12/1976.",
+        "p57":"031472 A au 031478 B du 22/12/1976 au 28/12/1976.",
+        "p58":"023137 B au 037426 B du 03/01/1977 au 21/01/1977.",
+        "p59":"031479 A au 031492 B du 03/01/1977 au 29/01/1977.",
+        "p60":"022835 B au 086363 A du 14/01/1977 au 19/02/1977.",
+        "p61":"024202 A au 023358 B du 27/01/1977 au 21/02/1977.",
+        "p62":"086451 A au 086312 A du 19/02/1977 au 23/03/1977.",
+        "p63":"023359 A au 023368 A du 23/02/1977 au 14/03/1977.",
+        "p64":"086392 A au 066334 A du 09/03/1977 au 21/04/1977.",
+        "p65":"023369 A au 024222 B du 16/03/1977 au 25/04/1977.",
+        "p66":"024218 A au 024234 B du 17/04/1977 au 15/05/1977.",
+        "p67":"086463 B au 086470 A du 22/04/1977 au 21/05/1977.",
+        "p68":"024235 B au 023386 A du 17/05/1977 au 15/06/1977.",
+        "p69":"024058 B au 024068 A du 21/05/1977 au 04/06/1977.",
+        "p70":"024069 A au 086496 B du 06/06/1977 au 13/07/1977.",
+        "p71":"023387 A au 085404 B du 17/06/1977 au 18/07/1977.",
+        "p72":"086497 B au 086498 A du 15/07/1977 au 16/07/1977.",
+        "p73":"090501 A au 090540 A du 03/06/1977 au 30/08/1977.",
+        "p74":"085406 A au 085419 A du 19/07/1977 au 31/08/1977.",
+        "p75":"085618 B au 085662 B du 29/08/1977 au 23/09/1977.",
+        "p76":"085471 A au 085428 A du 29/08/1977 au 26/09/1977.",
+        "p77":"085485 A au 085498 A du 22/09/1977 au 18/10/1977.",
+        "p78":"087956 A au 087978 B du 20/09/1977 au 23/10/1977.",
+        "p79":"087979 A au 087985 A du 24/10/1977 au 31/10/1977.",
+        "p80":"085500 A au 085448 A du 21/10/1977 au 23/11/1977.",
+        "p81":"086508 B au 087864 B du 02/11/1977 au 28/11/1977.",
+        "p82":"087865 A au 087887 B du 01/12/1977 au 31/12/1977."
+      }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W4",
+        "unittitle": "Feuillets fracto, 1979-1980. Souches fracto, 1976-1979.",
+        "unitdate": {
+          "normal": "1976-05-29/1980-06-15",
+          "#text": "29/05/1976-15/06/1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Feuillets fracto, 1979-1980.",
+        "unitdate": {
+          "normal": "1979-01-02/1980-06-15",
+          "#text": "02/01/1979-15/06/1980"
+        }
+      },
+      "scopecontent": {
+        "p1": "086909 B au 086715 B du 02/01/1979 au 30/01/1979.",
+        "p2": "086930 A au 086948 A du 23/01/1979 au 28/02/1979.",
+        "p3": "086949 A au 087162 B du 01/03/1979 au 23/03/1979.",
+        "p4": "086738 B au 087180 B du 11/03/1979 au 21/04/1979.",
+        "p5": "086659 A au 087185 A du 23/04/1979 au 30/04/1979.",
+        "p6": "087186 B au 085510 B du 02/05/1979 au 31/05/1979.",
+        "p7": "086680 A au 085997 A du 18/05/1979 au 30/06/1979.",
+        "p8": "086696 A au 087218 A du 18/06/1979 au 27/07/1979.",
+        "p9": "087219 A au 087221 B du 28/07/1979 au 31/07/1979.",
+        "p10": "087211 A au 087238 B du 20/07/1979 au 14/08/1979.",
+        "p11": "085833 A au 086762 A du 16/08/1979 au 20/09/1979.",
+        "p12": "086763 A au 073746 A du 21/09/1979 au 25/09/1979.",
+        "p13": "086765 B au 086778 A du 25/09/1979 au 29/10/1979.",
+        "p14": "086779 B au 086584 A du 30/10/1979 au 31/10/1979.",
+        "p15": "086582 A au 87101 B du 29/10/1979 au 30/11/1979.",
+        "p16": "087102 A au 090572 B du 01/12/1979 au 31/12/1979.",
+        "p17": "090573 B au 087787 B du 03/01/1980 au 31/01/1980.",
+        "p18": "087788 A au 087814 B du 01/02/1980 au 29/02/1980.",
+        "p19": "087815 A au 087836 B du 01/03/1980 au 30/03/1980.",
+        "p20": "181516 A au 181530 A du 01/04/1980 au 29/04/1980.",
+        "p21": "181523 B au 181543 A du 16/04/1980 au 31/05/1980.",
+        "p22": "181537 B au 090732 A du 21/05/1980 au 15/06/1980."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Souches fracto, 1976-1979.",
+        "unitdate": {
+          "normal": "1976-05-29/1979-07-03",
+          "#text": "29/05/1976-03/07/1979"
+        }
+      },
+      "scopecontent": {
+        "p1": "N° 030201 à 030231 du 29/05/1976 au 11/07/1976.",
+        "p2": "N° 85651 à 85700 du 10/08/1977 au 13/03/1978.",
+        "p3": "N° 86502 à 86550 du 20/10/1977 au 13/01/1978.",
+        "p4": "N° 87851 à 87900 du 17/11/1977 au 15/01/1978.",
+        "p5": "N° 85701 à 85750 du 13/01/1978 au 04/04/1978.",
+        "p6": "N° 85751 à 85798 du 16/01/1978 au 07/03/1978.",
+        "p7": "N° 86601 à 86649 du 10/02/1978 au 10/05/1978.",
+        "p8": "N° 86252 à 86300 du 16/03/1978 au 05/06/1978.",
+        "p9": "N° 87901 à 87950 du 12/04/1978 au 24/07/1978.",
+        "p10": "N° 86851 à 86900 du 12/05/1978 au 02/08/1978.",
+        "p11": "N° 85901 à 85950 du 06/06/1978 au 29/08/1978.",
+        "p12": "N° 73601 à 73650 du 24/07/1978 au 15/11/1978.",
+        "p13": "N° 73501 à 73550 du 03/08/1978 au 18/10/1978.",
+        "p14": "N° 73551 à 73600 du 05/09/1978 au 23/10/1978.",
+        "p15": "N° 86801 à 86850 du 19/10/1978 au 20/12/1978.",
+        "p16": "N° 85551 à 85600 du 24/10/1978 au 11/01/1979.",
+        "p17": "N° 86401 à 86450 du 16/11/1978 au 03/03/1979.",
+        "p18": "N° 86901 à 86950 du 21/12/1978 au 06/03/1979.",
+        "p19": "N° 86701 à 86750 du 11/01/1979 au 03/04/1979.",
+        "p20": "N° 87151 à 87200 du 06/03/1979 au 16/05/1979.",
+        "p21": "N° 85951 à 86000 du 07/03/1979 au 03/07/1979."
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W5",
+        "unittitle": "Souches fracto, 1979-1980. Cahier d’enregistrement des fiches de contrôle d’exécution et opérations de contrôle. Cahier état/liste récapitulative du personnel navigant de la 27 S mois de mars 1980.",
+        "unitdate": {
+          "normal": "1975-10-30/1980-07-15",
+          "#text": "30/10/1975-15/07/1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Souches fracto, 1979-1980.",
+        "unitdate": {
+          "normal": "1979-04-05/1980-07-15",
+          "#text": "05/04/1979-15/07/1980"
+        }
+      },
+      "scopecontent": {
+        "p1": "N° 86651 à 86700 du 05/04/1979 au 27/06/1979.",
+        "p2": "N° 85501 à 85550 du 17/05/1979 au 17/07/1979.",
+        "p3": "N° 85801 à 85850 du 28/06/1979 au 27/09/1979.",
+        "p4": "N° 87201 à 87250 du 07/07/1979 au 11/09/1979.",
+        "p5": "N° 73701 à 73750 du 18/07/1979 au 01/10/1979.",
+        "p6": "N° 86751 à 86800 du 11/09/1979 au 22/11/1979.",
+        "p7": "N° 86551 à 86600 du 28/09/1979 au 29/11/1979.",
+        "p8": "N° 73651 à 73700 du 11/10/1979 au 07/12/1979.",
+        "p9": "N° 90551 à 90600 du 26/11/1979 au 19/02/1980.",
+        "p10": "N° 87101 à 87150 du 30/11/1979 au 18/02/1980.",
+        "p11": "N° 87751 à 87800 du 07/12/1979 au 14/02/1980.",
+        "p12": "N° 85851 à 85900 du 15/02/1980 au 23/04/1980.",
+        "p13": "N° 87801 à 87850 du 16/02/1980 au 28/04/1980.",
+        "p14": "N° 84551 à 84559 du 19/02/1980 au 04/03/1980.",
+        "p15": "N° 181501 à 181550 du 04/03/1980 au 09/06/1980.",
+        "p16": "N° 84501 à 84550 du 24/04/1980 au 06/07/1980.",
+        "p17": "N° 90701 à 90750 du 02/05/1980 au 15/07/1980."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Cahier d’enregistrement des fiches de contrôle d’exécution et opérations de contrôle.",
+        "unitdate": {
+          "normal": "1975-10-30/1980-06-30",
+          "#text": "30/10/1975-30/06/1980"
+        }
+      }
+    }
+  },
+  {
+    "c1": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "III – CORRESPONDANCE AU DEPART ET ORDRES"
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W6",
+        "unittitle": "1968-1972 : Courrier départ NP/DR",
+        "unitdate": {
+          "normal": "1968-01-01/1972-12-31",
+          "#text": "1968-1972"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W7",
+        "unittitle": "1973-1976 : Courrier départ NP/DR. Courrier départ CD",
+        "unitdate": {
+          "normal": "1973-01-01/1976-12-31",
+          "#text": "1973-1976"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W8/1",
+        "unittitle": "Courrier départ NP/DR",
+        "unitdate": {
+          "normal": "1977-01-01/1980-12-31",
+          "#text": "1977-1980"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W8/2",
+        "unittitle": "Registre courrier ; Ordres de circonstance : instruction du 20/02/1973 et du 31/01/1974 au 19/07/1980 ; Ordres permanents du 13/05/1976 au 05/06/1980",
+        "unitdate": {
+          "normal": "1967-05-02/1978-07-17",
+          "#text": "02/05/1967-17/07/1978"
+        }
+      }
+    }
+  },
+  {
+    "c1": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "IV – CORRESPONDANCE A L’ARRIVEE"
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W9/1",
+        "unittitle": "Courrier arrivée",
+        "unitdate": {
+          "normal": "1959-01-01/1977-12-31",
+          "#text":"1959-1977"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1959-1977 Courrier arrivée NP",
+        "unitdate": {
+          "normal": "1959-01-01/1977-12-31",
+          "#text": "1959-1977"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1974-1977 : Courrier arrivée NP/CD",
+        "unitdate": {
+          "normal": "1974-01-01/1977-12-31",
+          "#text": "1974-1977"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W9/2",
+        "unittitle": "Cahier du courrier arrivée",
+        "unitdate": {
+          "normal": "1976-01-01/1980-12-31",
+          "unitdate": {
+            "normal": "1976-01-01/1980-12-31",
+            "#text":"1976-1980"
+          }
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Cahier du courrier arrivée 1976-1980.",
+        "unitdate": {
+          "normal": "1976-01-01/1980-12-31",
+          "#text":"1976-1980"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W/10",
+        "unittitle": "Cahier du courrier arrivée",
+        "unitdate": {
+          "normal": "1972-01-01/1979-12-31",
+          "#text": "1972-1979"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1978 : Courrier arrivée NP",
+        "unitdate": {
+          "normal": "1978-01-01/1978-12-31",
+          "#text": "1978"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1978-1979 : Courrier arrivée NP/CD",
+        "unitdate": {
+          "normal": "1978-01-01/1979-12-31",
+          "#text": "1978-1979"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1972-1979 : Courrier arrivée NP/DR",
+        "unitdate":{
+          "normal":"1972-01-01/1979-12-31",
+          "#text":"1972-1979"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1977-1979 : Courrier arrivée NP/CPO",
+        "unitdate":{
+          "normal":"1977-01-01/1979-12-31",
+          "#text":"1977-1979"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W11/1",
+        "unittitle": "Cahier du courrier arrivée 1979-1980.",
+        "unitdate":{
+          "normal":"1979-01-01/1980-12-31",
+          "#text":"1979-1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1979-1980 : Courrier arrivée NP",
+        "unitdate":{
+          "normal":"1979-01-01/1980-12-31",
+          "#text":"1979-1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1980 : Courrier arrivée CD",
+        "unitdate":{
+          "normal":"1980-01-01/1980-12-31",
+          "#text":"1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1980 : Courrier arrivée NP/DR",
+        "unitdate":{
+          "normal":"1980-01-01/1980-12-31",
+          "#text":"1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1980 : Courrier arrivée NP/CPO",
+        "unitdate":{
+          "normal":"1980-01-01/1980-12-31",
+          "#text":"1980"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W11/2",
+        "unittitle": "Dossier notation des officiers",
+        "unitdate": {
+          "normal": "1972-10-06/1980-03-10",
+          "#text": "06/10/1972-10/03/1980"
+        }
+      }
+    }
+  },
+  {
+    "c1": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "VI - DOSSIERS"
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W12",
+        "unittitle": "Rapport sur le moral. Courrier Sanctions-punitions. Journal de bord de l’escadrille 27 S. Discipline générale. Cahier de service. Registre du service des vaguemestres."
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid":"4W13",
+        "unittitle": "1967-1980 : Dissolution ; 1967-1979 : Courrier départ NP ; 1967-1980 : Courrier départ CD ; 1970-1978 : Courrier départ NP/DR ; 1970-1980 : Courrier départ CPO/CPO mariniers/CPE.",
+        "unitdate": {
+          "normal": "1967-01-01/1980-12-31",
+          "#text": "1967-1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1968-1980 : Rapport sur le moral",
+        "unitdate": {
+          "normal": "1968-01-01/1980-12-31",
+          "#text": "1968-1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Courrier Sanctions-punitions",
+        "unitdate": {
+          "normal": "1967-1980",
+          "#text": "1967-1980"
+        }
+      },
+      "scopecontent": {
+        "p1": "- Cahiers de punitions OM avec et sans sursis (2)",
+        "p2": "- Registres de punitions OM avec sursis (2)",
+        "p3": "- Cahier de punitions QM et matelots sans sursis (1)",
+        "p4": "- Registre de punitions QM et matelots avec sursis (1)",
+        "p5": "- Cahier de punitions personnel base (1)",
+        "p6": "- Cahier de punitions équipage avec sursis (1)",
+        "p7": "- Cahiers de demande de punitions (2)",
+        "p8": "- Registre de punitions officiers (1)",
+        "p9": "- Cahier d’enregistrement de récompenses ou de punitions pour faits aéronautiques (1)"
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1973-1980 : Journal de bord de l’escadrille 27 S",
+        "unitdate": {
+          "normal": "1973-1980",
+          "#text": "1973-1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "Discipline générale",
+        "unitdate": {
+          "normal": "1975-01-01/1979-12-31",
+          "#text": "1975-1979"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1980 : Cahier de service",
+        "unitdate": {
+          "normal": "1980-01-01/1980-12-31",
+          "#text": "1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1978-1980 : Registre du service des vaguemestres",
+        "unitdate": {
+          "normal": "1978-01-01/1980-12-31",
+          "#text": "1978-1980"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W14",
+        "unittitle": "1968-1979 : Courrier arrivée NP ; 1967-1974 : Courrier arrivée NP/CD",
+        "unitdate": {
+          "normal": "1967-01-01/1979-12-31",
+          "#text": "1967-1979"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W15",
+        "unittitle": "1975-1980 : Courrier arrivée NP/CD ; 1966-1979 : Courrier arrivée NP/DR",
+        "unitdate": {
+          "normal": "1966-01-01/1980-12-31",
+          "#text": "1966-1980"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W16",
+        "unittitle": "Courrier arrivée CPO/CPE. Courrier arrivée NP/Secret défense. Cahiers banc d’essai Crouzet Aviation/Secret. Mesures aéromagnétiques courrier départ. Mesures aéromagnétiques courrier arrivée CD/CPO.",
+        "unitdate": {
+          "normal": "1967-01-01/1980-12-31",
+          "#text": "1967-1980"
+        }
+      },
+      "scopecontent":{
+        "p1":"(...) suite de l'intitulé : Système-matériel aéronautique-prises de vue équipements Alouette III courrier départ NP."
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1969-1980 : Courrier arrivée CPO/CPE",
+        "unitdate": {
+          "normal": "1969-01-01/1980-12-31",
+          "#text": "1969-1980"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unitdate": {
+          "normal": "1972-01-01/1973-12-31",
+          "#text": "1972-1973"
+        },
+        "unittitle": "Courrier arrivée NP/Secret défense"
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1967 : Cahiers banc d’essai Crouzet Aviation/Secret",
+        "unitdate": {
+          "normal": "1967-01-01/1967-12-31",
+          "#text": "1967"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1971-1974 : Mesures aéromagnétiques courrier départ",
+        "unitdate": {
+          "normal": "1971-01-01/1974-12-31",
+          "#text": "1971-1974"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1973-1978 : Mesures aéromagnétiques courrier arrivée CD/CPO",
+        "unitdate": {
+          "normal": "1973-01-01/1978-12-31",
+          "#text": "1973-1978"
+        }
+      }
+    }
+  },
+  {
+    "c3": {
+      "level": "recordgrp",
+      "did": {
+        "unittitle": "1979 : Système-matériel aéronautique-prises de vue équipements Alouette III courrier départ NP",
+        "unitdate": {
+          "normal": "1979-01-01/1979-12-31",
+          "#text": "1979"
+        }
+      },
+      "scopecontent":{
+        "p1" : "Guide pratique sur la conduite à tenir en cas d’accidents ou de maladies graves, de disparition et de décès de personnels militaire"
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W17",
+        "unittitle": "1966-1980 :  Accidents aériens",
+        "unitdate": {
+          "normal": "1966-01-01/1980-12-31",
+          "#text": "1966-1980"
+        }
+      }
+    }
+  },
+  {
+    "c2": {
+      "level": "recordgrp",
+      "did": {
+        "unitid": "4W18",
+        "unittitle": "1970 : Mémento de mise en œuvre des formations de l’aéronautique navale CD ; 1975 : Note d’information sur les armes CD ; 1978 : Guide d’exécution des missions ASM du super-frelon CD ; 1968-1980 : Inspections générales –courrier ; Rapport 1975.",
+        "unitdate": {
+          "normal": "1970-01-01/1980-12-31",
+          "#text": "1970-1980"
+        }
+      }
+    }
+  }
+]
